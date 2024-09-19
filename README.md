@@ -341,3 +341,6 @@ breaks. The replacement for "ADD\_CUSTOM\_CERTIFICATE\_HERE" must be a single li
 Hint: This method of adding own certifactes to the list is only valid for now. In a later release we
 will check the signature of the list, so a manipulation is impossible! But we will provide a new method
 to add custom certificates with the release that checks the signature.
+
+## TODO:
+ - Add New Namespaces
